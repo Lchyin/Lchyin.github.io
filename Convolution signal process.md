@@ -1,6 +1,6 @@
 ## 卷积信号过程
-
-import numpy as np
+```
+import numpy as np  
 import matplotlib.pyplot as plt
 from matplotlib import animation
 x = np.linspace(-5, 5, 1000)
@@ -68,7 +68,7 @@ line, = ax1.plot(x1, y1)
 ani = animation.FuncAnimation(init_func=init, frames=30, interval=100, blit=True, func=animate, fig=fig)
 ani.save('sin_dot.gif', writer='imagemagick', fps=5)
 plt.show()
-
+```
 
 ![image](sin_dot.gif "卷积信号")
 
