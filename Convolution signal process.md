@@ -72,4 +72,3 @@ plt.show()
 
 ![image](sin_dot.gif "卷积信号")
 
-
