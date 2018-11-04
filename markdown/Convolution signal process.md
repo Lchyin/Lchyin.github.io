@@ -70,5 +70,5 @@ ani.save('sin_dot.gif', writer='imagemagick', fps=5)
 plt.show()
 ```
 
-![image](sin_dot.gif "卷积信号")
+![image](..\image\sin_dot.gif "卷积信号")
 
