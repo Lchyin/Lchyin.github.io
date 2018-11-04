@@ -20,6 +20,6 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 
 ```
-![image](/image/flower.bmp)
-![image](/image/RGB直方图.png)
-![image](/image/灰色直方图.png)
+![image](../image/flower.bmp)
+![image](../image/RGB直方图.png)
+![image](../image/灰色直方图.png)
